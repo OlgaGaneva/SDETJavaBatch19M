@@ -1,0 +1,13 @@
+Arrays:
+  Arrays are collections of multiple variables.
+  These variables have indexes which help us retrieve
+  and store data inside the array.
+Why we should use Arrays:
+    When we have a lot of data storing it inside variables is not feasible.
+Syntax:
+    Approach 1
+    Datatype [] ArrayName=new Datatype[size];
+    int [] numbers=new int[9];
+    Approach 2
+    Datatype ArrayName={element1, element2, element3, element4};
+    int [] numbers={10,20,30,45};

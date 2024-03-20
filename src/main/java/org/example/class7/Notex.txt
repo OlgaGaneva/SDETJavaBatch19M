@@ -1,0 +1,2 @@
+Arrays are collection of multiple variables.
+they allow us to store multiple values in a single variable.

@@ -1,0 +1,37 @@
+deference between print and printLN that printLN means New Line
+what are variables?
+    Variables are like containers that we use to store the data in our programs.
+what are DataTypes?
+        DataTypes are used to store/identify different type of data in variables.
+Primitive dataTypes:
+  there are eight basic dataTypes in Java:
+  byte = the extra small  whole number box
+  short = the small whole number box
+  int = medium
+  long = extra long
+  float = small container for decimal numbers
+  double = medium container for decimal number
+  char = smallest datatype for storing the characters
+  boolean = store true or false
+Non primitive dataTypes:
+    Are advance data types build using above mentioned 8 primitive data types
+Sprint = most popular
+
+
+How do we decide what data type we should use for a variable?
+   We decide based on two things, one is what type of data we are planing to store
+   and second what type of operations we will be performing on the data.
+
+What are naming conventions in Java:
+   For a variable we use camelCase.
+   For a class name we use PascalCase.
+   The name of packages ar always in lowercase.
+String concatenations:
+   String concatenation allows us to join two strings together.
+
+Arithmetic operators:
+Are simply the symbols that we acne use to perform simple math operations + - / * %
+
+
+
+
